@@ -1,3 +1,11 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=bigmuramura)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=bigmuramura&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmuramura&count_private=true?show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=bigmuramura&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
